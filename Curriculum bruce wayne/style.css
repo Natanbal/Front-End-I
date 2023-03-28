@@ -10,35 +10,48 @@ h1{
     text-align: center;
     text-transform: uppercase;
 }
+header{
+    padding-bottom: 128px;
+}   
 h2{
+    height: 30px;
     background-color: lightgray;
     color: rgb(0,86,119);
     font-family: 'Times New Roman', Times, serif;
-    font-size: 20;
+    font-size: 20px;
     font-weight: 700;
     text-align: left;
     text-transform: uppercase;  
 }
 li{
     font-family: 'Times New Roman', Times, serif;
-    font-size: 15;
+    font-size: 15px;
     font-weight: bold;
     font-style: italic;
 }
 dt{
     font-family: 'Times New Roman', Times, serif;
-    font-size: 15;
+    font-size: 15px;
     font-weight: bold;
 }
 dd{
     font-family: 'Times New Roman', Times, serif;
-    font-size: 15;
+    font-size: 15px;
+    margin-left: 90px;
 }
 footer section{
+    height: 37px;
     text-align: center;
-    font-size: 20;
+    font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
     font-weight: 700;
     background-color: rgb(0,86,119);
     color: white;
+}
+.telefono{
+    vertical-align: 50%;
+}
+.redes{
+    padding-top: 8.5px;
+    padding-bottom: 8.5px;
 }
